@@ -1,2 +1,2 @@
 # AluraBooks
-Project AluraBooks - Created in course responsibility  on Alura
+Project AluraBooks - Created in course responsibility  from Alura
